@@ -19,6 +19,8 @@ Neos:
     # http:
     #   baseUri: 'https://DOMAIN.at/'
   Neos:
+    eventLog:
+      enabled: TRUE
     userInterface:
       defaultLanguage: de
     fusion:
